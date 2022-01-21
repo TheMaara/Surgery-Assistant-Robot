@@ -1,5 +1,5 @@
 # Surgery-Assistant-Robot
- A robot that will help surgeons make less mistakes during surgery by handling the surgical equipment instead of having human surgical assistants.
+ A robot that helps surgeons make less mistakes during surgery by handling the surgical equipment instead of having human surgical assistants.
 
  The robot would have a camera whose visual input would be fed to the object detection algorithm. On recognising a tool the robots arm would move to pick up the tool and present it to the surgeon.
 
