@@ -6,7 +6,7 @@
  Also when the surgeon is done with a particular tool he would present it to the robot and it would pick up the tool, rinse it and return it to the tool tray.
  
  ### This project was done by:
-1. Mark Maara.
+1. [Mark Maara](https://linkedin.com/in/mark-maara-42b235153/)
 2. Samuel Muga.
 3. Martin Juma.
 4. Martin Kamau.
