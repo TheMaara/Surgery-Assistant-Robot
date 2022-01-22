@@ -20,7 +20,7 @@
 
  The object detection AI was made using Jupyter notebooks written by Nicholas Renotte.
  The notebooks are a detailed walkthrough on how to create an object detection system that can detect virtually anything.
- Github link to Renotte's Repository: https://github.com/nicknochnack/TFODCourse. A demonstration of the functioning of the object detection algorithm is as shown below:
+ Github link to Renotte's Repository: https://github.com/nicknochnack/TFODCourse. A video demonstration of the functioning of the object detection algorithm is as shown below:
  
  [![oj](https://user-images.githubusercontent.com/68475422/150492996-be428e83-0fa1-42cd-a365-0c4db705bfd8.png)](https://youtu.be/K-EPAwUYiv4)
 
