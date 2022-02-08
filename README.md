@@ -1,13 +1,5 @@
 # Surgery Assistant Robot
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/0x6f736f646f/Emojidetection/issues)
-![GitHub repo size](https://img.shields.io/github/repo-size/0x6f736f646f/Emojidetection.svg?color=purple&style=flat)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Flask.svg?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/0x6f736f646f/Emojidetection.svg?style=flat)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/0x6f736f646f/Emojidetection.svg?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/0x6f736f646f/Emojidetection.svg?style=flat)
-[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/0x6f736f646f/Emojidetection/blob/master/LICENSE)
-
  A robot that helps surgeons make less mistakes during surgery by handling the surgical equipment instead of having human surgical assistants.
 
  The robot would have a camera whose visual input would be fed to the object detection algorithm. On recognising a tool the robots arm would move to pick up the tool and present it to the surgeon.
