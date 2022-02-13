@@ -24,8 +24,7 @@
  Github link to Renotte's Repository: https://github.com/nicknochnack/TFODCourse. It uses the SSD Mobilenet V2 FPNLite 320 by 320 pretrained model from the tensorflow model zoo because it is fast and not very resource heavy and so will be perfect for being deployed on a raspberry pi.
  A video demonstration of the functioning of the object detection algorithm is as shown below:
  
- [![oj](https://user-images.githubusercontent.com/68475422/150492996-be428e83-0fa1-42cd-a365-0c4db705bfd8.png)](https://youtu.be/K-EPAwUYiv4)
-
+ [![150492996-be428e83-0fa1-42cd-a365-0c4db705bfd8](https://user-images.githubusercontent.com/68475422/153746045-6c220d8a-bc6a-45d5-9342-1c98db47a914.png)](https://youtu.be/K-EPAwUYiv4)
 
  ## Electrical and electronics module.
  The robot would use two cameras each tracking the arm that's on its respective side. The arms would be actuated by two stepper motors and three servo motors therefore giving it six axes of motion. All this would be run on a raspberry pi running the programs for the control of the motors and the object detection.
